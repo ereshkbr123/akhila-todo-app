@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/akhila-todo-app/static/css/main.03756391.css",
+    "main.js": "/akhila-todo-app/static/js/main.0cc91b14.js",
+    "static/js/453.7c2f868a.chunk.js": "/akhila-todo-app/static/js/453.7c2f868a.chunk.js",
+    "static/media/image.png": "/akhila-todo-app/static/media/image.f088e80aad235187c947.png",
+    "index.html": "/akhila-todo-app/index.html",
+    "main.03756391.css.map": "/akhila-todo-app/static/css/main.03756391.css.map",
+    "main.0cc91b14.js.map": "/akhila-todo-app/static/js/main.0cc91b14.js.map",
+    "453.7c2f868a.chunk.js.map": "/akhila-todo-app/static/js/453.7c2f868a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03756391.css",
+    "static/js/main.0cc91b14.js"
+  ]
+}
